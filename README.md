@@ -7,10 +7,12 @@ Gameplay:
 
 Players: Two players, one using 'X' and the other 'O'.
 Objective: Achieve a straight line of three consecutive marks (horizontally, vertically, or diagonally) on a 3x3 grid.
+
 Turns: Players alternate turns, each selecting an empty cell to place their mark.
+
 End Conditions: The game ends when one player successfully aligns three marks or when all cells are filled without a winner, resulting in a draw.
-Console Game Project in Java:
-The Tic Tac Toe console game project developed in Java provides a textual interface for players to enjoy the game directly in the terminal. This project encapsulates the fundamental aspects of the game through an interactive and user-friendly command-line experience.
+
+Console Game Project in Java:The Tic Tac Toe console game project developed in Java provides a textual interface for players to enjoy the game directly in the terminal. This project encapsulates the fundamental aspects of the game through an interactive and user-friendly command-line experience.
 
 Features:
 
